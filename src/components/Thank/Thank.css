@@ -1,0 +1,16 @@
+.thank-container{
+  text-align: center;
+    
+}
+.thank-container h2{
+    margin-bottom: 0.6rem;
+}
+.thank-container p{
+    margin-bottom: 0.3rem;
+}
+.review-data{
+    font-weight: bold;
+    text-align: left;
+    margin-top: .8rem;
+    font-size: 0.9rem;
+}
